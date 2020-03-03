@@ -1,0 +1,23 @@
+.book {
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgba(255,255,255,.8);
+    align-items: center;
+    width: 80%;
+}
+
+
+.image {
+    border-radius: 9%;
+    height: 300px;
+    margin: 10px 0px;
+}
+
+.p {
+    padding: 0px 0px 5px 0px;
+    font-style: italic;
+}
