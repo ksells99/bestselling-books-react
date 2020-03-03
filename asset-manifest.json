@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bestselling-books-react/static/css/main.483f295f.chunk.css",
+    "main.js": "/bestselling-books-react/static/js/main.627982c7.chunk.js",
+    "main.js.map": "/bestselling-books-react/static/js/main.627982c7.chunk.js.map",
+    "runtime-main.js": "/bestselling-books-react/static/js/runtime-main.bd1af113.js",
+    "runtime-main.js.map": "/bestselling-books-react/static/js/runtime-main.bd1af113.js.map",
+    "static/js/2.845b1f8d.chunk.js": "/bestselling-books-react/static/js/2.845b1f8d.chunk.js",
+    "static/js/2.845b1f8d.chunk.js.map": "/bestselling-books-react/static/js/2.845b1f8d.chunk.js.map",
+    "index.html": "/bestselling-books-react/index.html",
+    "precache-manifest.a8e8d38ab94845673831ae81bbb0dcc6.js": "/bestselling-books-react/precache-manifest.a8e8d38ab94845673831ae81bbb0dcc6.js",
+    "service-worker.js": "/bestselling-books-react/service-worker.js",
+    "static/css/main.483f295f.chunk.css.map": "/bestselling-books-react/static/css/main.483f295f.chunk.css.map",
+    "static/js/2.845b1f8d.chunk.js.LICENSE.txt": "/bestselling-books-react/static/js/2.845b1f8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd1af113.js",
+    "static/js/2.845b1f8d.chunk.js",
+    "static/css/main.483f295f.chunk.css",
+    "static/js/main.627982c7.chunk.js"
+  ]
+}
